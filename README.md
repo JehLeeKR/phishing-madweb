@@ -19,4 +19,11 @@
  - Collection Timeline: May 30 - July 10 2019 daily crawl
  - Collection Result: 32,159 HTML
  
- 
+ ### Features
+- Features are based on these five papers
+
+  1. X. Guang, H. Jason, P. R. Carolyn, and C. Lorrie, “Cantina+: A feature-rich machine learning framework for detecting phishing web sites,” in ACM transactions on information and system security, 2011, pp.1–28.
+  2. M. Samuel, S. Kalle, S. Nidhi, and A. N, “Know your phish: Novel techniques for detecting phishing sites and their targets,” in IEEE International Conference on Distributed Computing Systems., 2016.
+  3. K. Thomas, C. Grier, J. Ma, V. Paxson, and D. Song, “Design and evaluation of a real-time urlspam filtering service,” in Proceedings of the 2011 IEEE Symposium on Security and Privacy (SP), 2011, pp. 447–462.
+  4. C. Whittaker, B. Ryner, and M. Nazif, “Large-scale automatic classification of phishing pages,” in Proceedings of the 2010 Network and Distributed System Security (NDSS) Symposium, 2010.
+  5. L. Yukun, Y. Zhenguo, C. Xu, Y. Huaping, and L. Wenyin, “A stacking model using url and html features for phishing webpage detection,” in Future Generation Computer Systems, 2019, pp. 27–39
