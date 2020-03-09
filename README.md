@@ -30,5 +30,5 @@
   5. L. Yukun, Y. Zhenguo, C. Xu, Y. Huaping, and L. Wenyin, “A stacking model using url and html features for phishing webpage detection,” in Future Generation Computer Systems, 2019, pp. 27–39
 
 ## Related Publication
-### Lee, J., Ye, P., Liu, R., Divakaran, D.M. and Chan, M.C., "Building Robust Phishing Detection System: an Empirical Analysis.", Measurements, Attacks, and Defenses for the Web (MADWeb) Workshop, 2020.
+- Lee, J., Ye, P., Liu, R., Divakaran, D.M. and Chan, M.C., "Building Robust Phishing Detection System: an Empirical Analysis.", Measurements, Attacks, and Defenses for the Web (MADWeb) Workshop, 2020.
 
