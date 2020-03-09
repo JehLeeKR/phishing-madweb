@@ -1,3 +1,4 @@
+
 ## Information
 ### Data Collection 
 #### Alexa 
@@ -27,3 +28,7 @@
   3. K. Thomas, C. Grier, J. Ma, V. Paxson, and D. Song, “Design and evaluation of a real-time urlspam filtering service,” in Proceedings of the 2011 IEEE Symposium on Security and Privacy (SP), 2011, pp. 447–462.
   4. C. Whittaker, B. Ryner, and M. Nazif, “Large-scale automatic classification of phishing pages,” in Proceedings of the 2010 Network and Distributed System Security (NDSS) Symposium, 2010.
   5. L. Yukun, Y. Zhenguo, C. Xu, Y. Huaping, and L. Wenyin, “A stacking model using url and html features for phishing webpage detection,” in Future Generation Computer Systems, 2019, pp. 27–39
+
+## Related Publication
+### Lee, J., Ye, P., Liu, R., Divakaran, D.M. and Chan, M.C., "Building Robust Phishing Detection System: an Empirical Analysis.", Measurements, Attacks, and Defenses for the Web (MADWeb) Workshop, 2020.
+
