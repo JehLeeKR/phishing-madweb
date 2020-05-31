@@ -2,6 +2,8 @@
 ## Note
 Please cite the following work when you use this dataset for your research:
 - Jehyun Lee, Pingxiao Ye, Ruofan Liu, Dinil Mon Divakaran, and Chan Mun Choon, “Building robust phishing detection system: an empirical analysis,” in NDSS MADWeb (Workshop on Measurements, Attacks, and Defenses for the Web), Feb. 2020.
+Available at https://www.ndss-symposium.org/wp-content/uploads/2020/02/23007-paper.pdf
+
 
 ## Information
 ### Data Collection 
