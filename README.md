@@ -1,14 +1,14 @@
 ## Phishing webpage detection dataset
 
-## Note
+### Note
 Please cite the following work when you use this dataset for your research:
 - Jehyun Lee, Pingxiao Ye, Ruofan Liu, Dinil Mon Divakaran, and Chan Mun Choon, “Building robust phishing detection system: an empirical analysis,” in NDSS MADWeb (Workshop on Measurements, Attacks, and Defenses for the Web), Feb. 2020.
 Available at https://www.ndss-symposium.org/wp-content/uploads/2020/02/23007-paper.pdf
 
 
-## Information
-### Data Collection 
-#### Alexa 
+### Information
+#### Data Collection 
+##### Alexa 
  - Source: 
    - Alexa Top 1 Million Domains from https://ats.alexa.com/developer-guide. 
    - List in Februrary 2019.
@@ -19,7 +19,7 @@ Available at https://www.ndss-symposium.org/wp-content/uploads/2020/02/23007-pap
  - Collection Timeline: May 10 - Aug 5 2019 in 4 batches
  - Collection Result: 110,009 HTML
 
-#### Phishtank
+##### Phishtank
  - Source: 
    - Phishtank Feed https://phishtank.com/
  - Method: 
@@ -27,7 +27,7 @@ Available at https://www.ndss-symposium.org/wp-content/uploads/2020/02/23007-pap
  - Collection Timeline: May 30 - July 10 2019 daily crawl
  - Collection Result: 32,159 HTML
  
- ### Features
+ #### Features
 - Features are based on these five papers
 
   1. X. Guang, H. Jason, P. R. Carolyn, and C. Lorrie, “Cantina+: A feature-rich machine learning framework for detecting phishing web sites,” in ACM transactions on information and system security, 2011, pp.1–28.
